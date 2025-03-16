@@ -12,4 +12,4 @@
 3. data_for_model.csv - after data engineering
 4. results_combined.csv - after model
 
-- 2012 cum goals arsenal.csv - for checking
+- 2012 cum goals arsenal.xlsx - for checking
